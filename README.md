@@ -1,4 +1,4 @@
-![ogo](https://github.com/jayy0335/Jayy0335/blob/main/Gray%20And%20White%20Modern%20Business%20Marketing%20Expert%20Linkedin%20Banner.png)
+![ogo](https://github.com/jayy0335/Jayy0335/blob/main/Screenshot%202025-05-23%20154837.png)
 <img align="left" alt="coding" lenth = "100" width="1200" height="70"  src="https://dainstudios.com/wp-content/uploads/2022/08/Data-natives_banner_2.gif"> </a>
 
 <h1 align="center">Hi everyone👋, I'm Jazib Ali khan</h1> 
