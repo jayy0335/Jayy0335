@@ -3,17 +3,17 @@
 
 <h1 align="center">Hi everyone👋, I'm Jazib Ali khan</h1> 
 
-<h3 align="center">I completed my Master's degree in Computer Science from the esteemed Umaer Bhasha Institute of Information Technology (DCS-UBIT) at the University of Karachi. Passionate about Data Science, I am actively enhancing my skills in various areas such as Data Analysis, Data Cleaning, Data Visualization, Data Manipulation/Wrangling, and Web Scraping, primarily using Python alongside SQL and Power BI. With a strong interest in this field, I aspire to contribute my expertise to a reputable organization. I am always eager to learn and tackle new challenges, especially in solving real-world business problems across diverse domains.</h3>
+<h3 align="center">I completed my Master's degree in Computer Science from the esteemed Umaer Bhasha Institute of Information Technology (DCS-UBIT) at the University of Karachi. Passionate about Data Science, I am actively enhancing my skills in various areas such as AI Engineer, Data Analysis, Deep Learning, Machine Learning Algorithms and LLM's primarily using Python alongside SQL, Tableau and Power BI. With a strong interest in this field, I aspire to contribute my expertise to a reputable organization. I am always eager to learn and tackle new challenges, especially in solving real-world business problems across diverse domains.</h3>
 
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayy0335&label=Profile%20views&color=0e75b6&style=flat" alt="jayy0335" /> </p>
 
-- 🌱 I’m currently learning **IBM Data Analysis From Coursera and Tableau from Udemy**
+- 🌱 I’m currently learning **Deep Learning and machine learning Algorithms**
 
 - 📝 I regularly write articles on [https://medium.com/@jazibkhan1212](https://medium.com/@jazibkhan1212)
 
-- 💬 Ask me about **Python, MySql, Tableau, Power Bi, MS-Excel**
+- 💬 Ask me about **Python, MySql, Tableau, Power Bi, MS-Excel, Tensorflow, LLM's Model, Rag System, Fine Tuning**
 
 - 📫 How to reach me **jazibkhan1212@gmail.com**
 
