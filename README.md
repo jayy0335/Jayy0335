@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **jazibkhan1212@gmail.com**
 
+- CheckOut my Portfolio https://jazib-ali-khan-4j4w1pj.gamma.site/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jazibjj0335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jazibjj0335" height="30" width="40" /></a>
