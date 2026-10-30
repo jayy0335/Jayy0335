@@ -3,9 +3,7 @@
 
 <h1 align="center">Hi everyone👋, I'm Jazib Ali khan</h1> 
 
-<h3 align="center">I hold a Master’s degree in Computer Science from the Umaer Bhasha Institute of Information Technology (UBIT), University of Karachi, with a strong passion for Artificial Intelligence and Data Science. 
-  
-As an AI Engineer, I specialize in designing and developing intelligent, scalable solutions using Agentic AI, AI Agents, Autonomous Systems, RAG, Agent Evaluation, LLMs, Machine Learning, and Deep Learning.
+<h3 align="center">I hold a Master’s degree in Computer Science from the Umaer Bhasha Institute of Information Technology (UBIT), University of Karachi, with a strong passion for Artificial Intelligence and Data Science. As an AI Engineer, I specialize in designing and developing intelligent, scalable solutions using Agentic AI, AI Agents, Autonomous Systems, RAG, Agent Evaluation, LLMs, Machine Learning, and Deep Learning.
 
 My technical expertise includes Python, FastAPI, LangChain, LangGraph, CrewAI, Docker, and n8n, along with data analysis and visualization tools such as SQL, Tableau, and Power BI.
 
